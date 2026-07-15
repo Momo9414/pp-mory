@@ -3,7 +3,7 @@ export const documents = [
     slug: "attestation",
     title: "Attestation de régularité fiscale",
     description: "Attestation officielle de régularité de situation fiscale de la SOCIETE MAYA TRANSPORT ET DISTRIBUTIONS.",
-    pdf: "public/pdfs/Quiz_3_Fullstack_Junior_Corrige.pdf",
+    pdf: "/pdfs/Attestation_de_régularité_de_situation_fiscale_smtd.pdf",
     logo: "/logo.png",
     status: "Validé",
     details: [
