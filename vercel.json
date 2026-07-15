@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/((?!pdfs/|logo.png|assets/).*)", "destination": "/index.html" }
+  ]
+}
